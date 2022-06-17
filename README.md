@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavya J Shah</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+Bhavya+J+Shah+Github+Profile!)](https://git.io/typing-svg)
 <h3 align="center">I am a UI/UX Designer located in India. I enjoy creating beautiful, elegant and intuitive apps and websites. My portfolio showcases some of my work in design, motion and development.</h3>
 
 - 🔭 I’m currently working on [Writing Blogs](https://www.blogtriggers.com/)
